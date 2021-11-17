@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\RandomQuotes\bin\Debug\netcoreapp3.1\RandomQuotes.exe
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\RandomQuotes\bin\Debug\netcoreapp3.1\RandomQuotes.deps.json
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\RandomQuotes\bin\Debug\netcoreapp3.1\RandomQuotes.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\RandomQuotes\bin\Debug\netcoreapp3.1\RandomQuotes.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\RandomQuotes\bin\Debug\netcoreapp3.1\RandomQuotes.dll
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\RandomQuotes\bin\Debug\netcoreapp3.1\RandomQuotes.pdb
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\RandomQuotes\obj\Debug\netcoreapp3.1\RandomQuotes.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\RandomQuotes\obj\Debug\netcoreapp3.1\RandomQuotes.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\RandomQuotes\obj\Debug\netcoreapp3.1\RandomQuotes.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\RandomQuotes\obj\Debug\netcoreapp3.1\RandomQuotes.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\RandomQuotes\obj\Debug\netcoreapp3.1\RandomQuotes.dll
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\RandomQuotes\obj\Debug\netcoreapp3.1\RandomQuotes.pdb
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\RandomQuotes\obj\Debug\netcoreapp3.1\RandomQuotes.genruntimeconfig.cache
